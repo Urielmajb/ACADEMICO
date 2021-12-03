@@ -11,5 +11,6 @@
     <WebStackScaffolding_DbContextTypeFullName>ACADEMICO.Data.ACADEMICOContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\Posgrado\Desktop\ACADEMICO %281%29\ACADEMICO\ACADEMICO\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
